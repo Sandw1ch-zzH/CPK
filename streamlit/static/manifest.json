@@ -1,0 +1,16 @@
+{
+  "name": "CPK Material Checker",
+  "short_name": "CPK",
+  "description": "Material Attribute Comparison Tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "static/icon.png",
+      "sizes": "262x262",
+      "type": "image/jpg"
+    }
+  ]
+}
